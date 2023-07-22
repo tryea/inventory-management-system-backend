@@ -2,7 +2,25 @@
 
 ## Installation
 
+### install dependencies
+
+```bash
+npm install
+```
+
+### allow create-model script to be executable
+
+```bash
+chmod +x ./scripts/create-model.sh
+```
+
 ## Usage
+
+### create model
+
+```bash
+./create_model.sh < model name >
+```
 
 ## Contributing
 
